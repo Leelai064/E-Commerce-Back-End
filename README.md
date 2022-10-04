@@ -12,7 +12,7 @@ SO THAT my company can compete with other e-commerce companies
 1.  [Description](#description)
 2.  [GithubLink](#github-link)
 3.  [Installation](#installation)
-4.  [link](#walkthrough-link)
+4.  [Demo](#walkthrough-link)
 5.  [Features](#features)
 
 ## Description
@@ -35,9 +35,9 @@ https://github.com/Leelai064/E-Commerce-Back-End
 7. Once step 6 is complete start the server by typing (in the terminal): "npm start"
 8. Fin.
 
-## Walkthrough Link
+## Walkthrough 
 
-https://drive.google.com/drive/u/0/folders/11Ge4vmuA7Wcv3gFAWGtCnJrC4LXafiuz
+![Video](./assets/demo.gif)
 
 ## Features
 * Javascript
