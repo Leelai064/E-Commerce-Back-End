@@ -10,14 +10,18 @@ SO THAT my company can compete with other e-commerce companies
 
 # Table of Contents
 1.  [Description](#description)
-2.  [Installation](#installation)
-3.  [link](#walkthrough-link)
-4.  [Visual Walkthrough](#visual-walkthrough)
+2.  [GithubLink](#github-link)
+3.  [Installation](#installation)
+4.  [link](#walkthrough-link)
 5.  [Features](#features)
 
 ## Description
 
 With given starter code, this project will build a better understanding of building a back-end server. Most business or e-commerce websites use back-end servers to manage their influx of orders from their end-users. Using recently learned techniques such as MYSQL database, Express.js, and API will be present in this project.
+
+## Github Link 
+
+https://github.com/Leelai064/E-Commerce-Back-End
 
 ## Installation
 
@@ -34,9 +38,6 @@ With given starter code, this project will build a better understanding of build
 ## Walkthrough Link
 
 https://drive.google.com/drive/u/0/folders/11Ge4vmuA7Wcv3gFAWGtCnJrC4LXafiuz
-
-## Visual Walkthrough
-
 
 ## Features
 * Javascript
